@@ -1,2 +1,4 @@
-touch git/up_to_date
+gitch fetch
+cd git
+touch up_to_date
 
