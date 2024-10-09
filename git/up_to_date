@@ -1,1 +1,2 @@
-touch git/up_to_date
+git checkout main
+touch up_to_date
