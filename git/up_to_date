@@ -1,3 +1,6 @@
+cd git
+touch up_to_date
+
 git fetch
 touch up_to_date
 echo 'up_to_date' > up_to_date
