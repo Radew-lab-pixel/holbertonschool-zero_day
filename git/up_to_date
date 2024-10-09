@@ -1,3 +1,4 @@
+git add.  
 cd /root/holbertonschool-zero_day/git
 git fetch
 git checkout main
