@@ -1,4 +1,4 @@
-cd /root/holbertonschool-zero_day
+cd /root/holbertonschool-zero_day/git
 git fetch
 git checkout main
 touch up_to_date
