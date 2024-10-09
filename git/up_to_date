@@ -1,2 +1,3 @@
+git fetch
 git checkout main
 touch up_to_date
