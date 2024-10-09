@@ -1,4 +1,9 @@
 #!/bin/bash
+Auto-merging git/bash/best
+CONFLICT (content): Merge conflict in git/bash/best
+Auto-merging git/bash/school
+CONFLICT (content): Merge conflict in git/bash/school
+Automatic merge failed; fix conflicts and then commit the result.
 <<<<<<< HEAD
 echo "This School is so cool!"
 
